@@ -1,0 +1,7 @@
+com/financeapp/service/TransactionServiceTest.class
+com/financeapp/controller/AuthControllerTest.class
+com/financeapp/controller/TransactionControllerTest.class
+com/financeapp/service/UserServiceTest.class
+com/financeapp/service/AuthServiceTest.class
+com/financeapp/controller/DashboardControllerTest.class
+com/financeapp/service/DashboardServiceTest.class
